@@ -34,10 +34,15 @@ event_calc
 ==========
 
 
-    Add a short description here!
+    This package is built with the goal to calculate the number of expected number of atmospheric
+    neutrino events for the JUNO experiment
 
 
-A longer description of your project goes here...
+The package will be consisted from several functions. The final calculation requires, dependancy on
+the energy and azimuthal angle bins, the flux of neutrinos and the cross section of the neutrinos.
+Some of the conditions will be setted already from the JUNO's yellow book, but others will be setted 
+for this precise calculation. 
+Names and description of the above mentioned functions will be provided when they are completed.
 
 
 .. _pyscaffold-notes:
